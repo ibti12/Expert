@@ -1,1 +1,1 @@
-(()=>{"use strict";console.log("Hello, Webpack!")})();
+(() => { "use strict"; console.log("Hello, Webpack!") })();
